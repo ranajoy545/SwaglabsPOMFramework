@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-07T11:20:25 IST" name="Suite" finished-at="2026-05-07T11:20:38 IST" duration-ms="13186">
+  <suite started-at="2026-05-07T13:30:05 IST" name="Suite" finished-at="2026-05-07T13:30:27 IST" duration-ms="21661">
     <groups>
     </groups>
-    <test started-at="2026-05-07T11:20:25 IST" name="Test" finished-at="2026-05-07T11:20:38 IST" duration-ms="13186">
+    <test started-at="2026-05-07T13:30:05 IST" name="Test" finished-at="2026-05-07T13:30:27 IST" duration-ms="21661">
       <class name="tests.LoginTest">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T11:20:25 IST" name="Setup" finished-at="2026-05-07T11:20:30 IST" duration-ms="5075" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T13:30:05 IST" name="Setup" finished-at="2026-05-07T13:30:16 IST" duration-ms="10488" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T11:20:30 IST" name="starttest" finished-at="2026-05-07T11:20:30 IST" duration-ms="7" status="PASS">
+        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T13:30:16 IST" name="starttest" finished-at="2026-05-07T13:30:16 IST" duration-ms="18" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,11 +22,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- starttest -->
-        <test-method signature="Validatelogin()[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T11:20:30 IST" name="Validatelogin" finished-at="2026-05-07T11:20:30 IST" duration-ms="546" status="PASS">
+        <test-method signature="Validatelogin()[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T13:30:16 IST" name="Validatelogin" finished-at="2026-05-07T13:30:17 IST" duration-ms="641" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Validatelogin -->
-        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T11:20:30 IST" name="teardown" finished-at="2026-05-07T11:20:30 IST" duration-ms="15" status="PASS">
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T13:30:17 IST" name="teardown" finished-at="2026-05-07T13:30:17 IST" duration-ms="15" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T11:20:30 IST" name="starttest" finished-at="2026-05-07T11:20:30 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T13:30:17 IST" name="starttest" finished-at="2026-05-07T13:30:17 IST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -48,11 +48,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- starttest -->
-        <test-method signature="validatetitle()[pri:1, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T11:20:30 IST" name="validatetitle" finished-at="2026-05-07T11:20:30 IST" duration-ms="61" status="PASS">
+        <test-method signature="validatetitle()[pri:1, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T13:30:17 IST" name="validatetitle" finished-at="2026-05-07T13:30:17 IST" duration-ms="41" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatetitle -->
-        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T11:20:30 IST" name="teardown" finished-at="2026-05-07T11:20:30 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T13:30:17 IST" name="teardown" finished-at="2026-05-07T13:30:17 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -63,17 +63,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="generateReport()[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T11:20:37 IST" name="generateReport" finished-at="2026-05-07T11:20:38 IST" duration-ms="505" status="PASS">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:tests.LoginTest@4466af20]" started-at="2026-05-07T13:30:26 IST" name="generateReport" finished-at="2026-05-07T13:30:27 IST" duration-ms="962" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReport -->
       </class> <!-- tests.LoginTest -->
       <class name="tests.CartPageTest">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:34 IST" name="Setup" finished-at="2026-05-07T11:20:36 IST" duration-ms="2177" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:21 IST" name="Setup" finished-at="2026-05-07T13:30:25 IST" duration-ms="4137" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:36 IST" name="starttest" finished-at="2026-05-07T11:20:36 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:25 IST" name="starttest" finished-at="2026-05-07T13:30:25 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -84,11 +84,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- starttest -->
-        <test-method signature="validatecartpageTitle()[pri:1, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:36 IST" name="validatecartpageTitle" finished-at="2026-05-07T11:20:37 IST" duration-ms="940" status="PASS">
+        <test-method signature="validatecartpageTitle()[pri:1, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:25 IST" name="validatecartpageTitle" finished-at="2026-05-07T13:30:26 IST" duration-ms="1086" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatecartpageTitle -->
-        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:37 IST" name="teardown" finished-at="2026-05-07T11:20:37 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:26 IST" name="teardown" finished-at="2026-05-07T13:30:26 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,7 +99,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:37 IST" name="starttest" finished-at="2026-05-07T11:20:37 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:26 IST" name="starttest" finished-at="2026-05-07T13:30:26 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -110,11 +110,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- starttest -->
-        <test-method signature="validateCartitemtitle()[pri:2, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:37 IST" name="validateCartitemtitle" finished-at="2026-05-07T11:20:37 IST" duration-ms="29" status="PASS">
+        <test-method signature="validateCartitemtitle()[pri:2, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:26 IST" name="validateCartitemtitle" finished-at="2026-05-07T13:30:26 IST" duration-ms="41" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateCartitemtitle -->
-        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:37 IST" name="teardown" finished-at="2026-05-07T11:20:37 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:26 IST" name="teardown" finished-at="2026-05-07T13:30:26 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -125,7 +125,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:37 IST" name="starttest" finished-at="2026-05-07T11:20:37 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:26 IST" name="starttest" finished-at="2026-05-07T13:30:26 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -136,11 +136,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- starttest -->
-        <test-method signature="validateItemprice()[pri:3, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:37 IST" name="validateItemprice" finished-at="2026-05-07T11:20:37 IST" duration-ms="28" status="PASS">
+        <test-method signature="validateItemprice()[pri:3, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:26 IST" name="validateItemprice" finished-at="2026-05-07T13:30:26 IST" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateItemprice -->
-        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:37 IST" name="teardown" finished-at="2026-05-07T11:20:37 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:26 IST" name="teardown" finished-at="2026-05-07T13:30:26 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -151,7 +151,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:37 IST" name="starttest" finished-at="2026-05-07T11:20:37 IST" duration-ms="1" status="PASS">
+        <test-method signature="checkoutbuttonclick()[pri:4, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:26 IST" name="checkoutbuttonclick" finished-at="2026-05-07T13:30:26 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutbuttonclick -->
+        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:26 IST" name="starttest" finished-at="2026-05-07T13:30:26 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -162,11 +166,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- starttest -->
-        <test-method signature="checkoutbuttonclick()[pri:4, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:37 IST" name="checkoutbuttonclick" finished-at="2026-05-07T11:20:37 IST" duration-ms="206" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- checkoutbuttonclick -->
-        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T11:20:37 IST" name="teardown" finished-at="2026-05-07T11:20:37 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.CartPageTest@7b9a4292]" started-at="2026-05-07T13:30:26 IST" name="teardown" finished-at="2026-05-07T13:30:26 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -179,11 +179,11 @@
         </test-method> <!-- teardown -->
       </class> <!-- tests.CartPageTest -->
       <class name="tests.ProductlistTest">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.ProductlistTest@79924b]" started-at="2026-05-07T11:20:30 IST" name="Setup" finished-at="2026-05-07T11:20:32 IST" duration-ms="1942" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.ProductlistTest@79924b]" started-at="2026-05-07T13:30:17 IST" name="Setup" finished-at="2026-05-07T13:30:20 IST" duration-ms="2910" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.ProductlistTest@79924b]" started-at="2026-05-07T11:20:32 IST" name="starttest" finished-at="2026-05-07T11:20:32 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="starttest(java.lang.reflect.Method)[pri:0, instance:tests.ProductlistTest@79924b]" started-at="2026-05-07T13:30:20 IST" name="starttest" finished-at="2026-05-07T13:30:20 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -194,11 +194,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- starttest -->
-        <test-method signature="validateproductincart()[pri:0, instance:tests.ProductlistTest@79924b]" started-at="2026-05-07T11:20:32 IST" name="validateproductincart" finished-at="2026-05-07T11:20:34 IST" duration-ms="1540" status="PASS">
+        <test-method signature="validateproductincart()[pri:0, instance:tests.ProductlistTest@79924b]" started-at="2026-05-07T13:30:20 IST" name="validateproductincart" finished-at="2026-05-07T13:30:21 IST" duration-ms="954" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateproductincart -->
-        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.ProductlistTest@79924b]" started-at="2026-05-07T11:20:34 IST" name="teardown" finished-at="2026-05-07T11:20:34 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:tests.ProductlistTest@79924b]" started-at="2026-05-07T13:30:21 IST" name="teardown" finished-at="2026-05-07T13:30:21 IST" duration-ms="6" status="PASS">
           <params>
             <param index="0">
               <value>

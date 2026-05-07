@@ -13,7 +13,7 @@ public class WebDriverFactory {
 			 option= new ChromeOptions();
 			//option.addArguments("--incognito");
 			option.addArguments("--guest");
-			option.addArguments("--headless");	
+			//option.addArguments("--headless");	
 			option.addArguments("--disable-notifications");
 			//option.addArguments("--start-maximized");
 			driver = new ChromeDriver(option);

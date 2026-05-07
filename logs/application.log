@@ -176,3 +176,9 @@
 2026-05-07 11:20:30 [main] INFO  tests.LoginTest - title validated
 2026-05-07 11:20:37 [main] INFO  tests.CartPageTest - validating the product page title
 2026-05-07 11:20:37 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-07 13:30:16 [main] INFO  tests.LoginTest - username has entered
+2026-05-07 13:30:16 [main] INFO  tests.LoginTest - password has entered
+2026-05-07 13:30:17 [main] INFO  tests.LoginTest - validateing the title
+2026-05-07 13:30:17 [main] INFO  tests.LoginTest - title validated
+2026-05-07 13:30:25 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-07 13:30:26 [main] INFO  tests.CartPageTest - validateing the Cart page title
