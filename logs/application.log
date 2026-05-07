@@ -1,0 +1,178 @@
+2026-03-09 22:13:46 [main] INFO  tests.LoginTest - username has entered
+2026-03-09 22:13:46 [main] INFO  tests.LoginTest - password has entered
+2026-03-09 22:13:46 [main] INFO  tests.LoginTest - validateing the title
+2026-03-09 22:13:46 [main] INFO  tests.LoginTest - title validated
+2026-03-09 22:39:14 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-09 22:39:14 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-03-09 22:42:05 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-09 22:42:05 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-03-09 22:42:23 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-09 22:42:56 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-09 22:42:56 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-03-09 22:45:23 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-09 22:45:23 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-03-30 09:16:14 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-30 09:18:51 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-30 09:18:51 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-03-30 09:19:41 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-30 09:19:41 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-03-30 09:30:56 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-30 09:30:56 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-03-30 09:32:03 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-30 09:32:04 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-03-30 09:40:43 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-30 09:40:43 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-03-30 10:21:02 [main] INFO  tests.CartPageTest - validating the product page title
+2026-03-30 10:21:02 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-01 11:31:30 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-01 11:31:31 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-01 11:34:07 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-01 11:34:53 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-01 11:34:54 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-01 11:48:45 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-01 11:49:58 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-01 11:50:35 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-01 11:50:35 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-01 12:41:48 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-01 12:41:48 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-01 13:12:59 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 18:53:41 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 18:53:41 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 19:02:11 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 19:02:11 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 19:02:37 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 19:02:38 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 19:03:56 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 19:03:56 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 19:04:33 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 19:04:33 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 19:07:46 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 19:07:46 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 19:08:09 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 19:08:09 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 19:08:24 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 19:08:25 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 19:42:01 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 19:42:01 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 19:58:02 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 19:58:03 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 20:01:51 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 20:01:52 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 20:02:08 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 20:02:08 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 20:07:59 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 20:08:00 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 20:09:56 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 20:09:57 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 20:56:11 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 20:56:12 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 20:57:45 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 20:57:45 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 20:58:49 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 20:58:49 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 21:00:57 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 21:00:57 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-04-02 23:10:48 [main] INFO  tests.CartPageTest - validating the product page title
+2026-04-02 23:10:48 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-05 13:54:53 [main] INFO  tests.LoginTest - username has entered
+2026-05-05 13:54:54 [main] INFO  tests.LoginTest - password has entered
+2026-05-05 13:54:54 [main] INFO  tests.LoginTest - validateing the title
+2026-05-05 13:54:54 [main] INFO  tests.LoginTest - title validated
+2026-05-05 13:55:07 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-05 13:55:08 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-05 13:57:04 [main] INFO  tests.LoginTest - username has entered
+2026-05-05 13:57:05 [main] INFO  tests.LoginTest - password has entered
+2026-05-05 13:57:05 [main] INFO  tests.LoginTest - validateing the title
+2026-05-05 13:57:05 [main] INFO  tests.LoginTest - title validated
+2026-05-05 13:57:20 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-05 13:57:21 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-05 13:59:06 [main] INFO  tests.LoginTest - username has entered
+2026-05-05 13:59:06 [main] INFO  tests.LoginTest - password has entered
+2026-05-05 13:59:07 [main] INFO  tests.LoginTest - validateing the title
+2026-05-05 13:59:07 [main] INFO  tests.LoginTest - title validated
+2026-05-05 14:00:58 [main] INFO  tests.LoginTest - username has entered
+2026-05-05 14:00:58 [main] INFO  tests.LoginTest - password has entered
+2026-05-05 14:00:58 [main] INFO  tests.LoginTest - validateing the title
+2026-05-05 14:00:58 [main] INFO  tests.LoginTest - title validated
+2026-05-05 14:04:02 [main] INFO  tests.LoginTest - username has entered
+2026-05-05 14:04:02 [main] INFO  tests.LoginTest - password has entered
+2026-05-05 14:04:03 [main] INFO  tests.LoginTest - validateing the title
+2026-05-05 14:04:03 [main] INFO  tests.LoginTest - title validated
+2026-05-05 14:04:37 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-05 14:04:38 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-05 14:06:03 [main] INFO  tests.LoginTest - username has entered
+2026-05-05 14:06:03 [main] INFO  tests.LoginTest - password has entered
+2026-05-05 14:06:04 [main] INFO  tests.LoginTest - validateing the title
+2026-05-05 14:06:04 [main] INFO  tests.LoginTest - title validated
+2026-05-05 14:08:05 [main] INFO  tests.LoginTest - username has entered
+2026-05-05 14:08:05 [main] INFO  tests.LoginTest - password has entered
+2026-05-05 14:08:05 [main] INFO  tests.LoginTest - validateing the title
+2026-05-05 14:08:05 [main] INFO  tests.LoginTest - title validated
+2026-05-05 14:08:13 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-05 14:08:13 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-05 14:15:03 [TestNG-test-Test-1] INFO  tests.LoginTest - username has entered
+2026-05-05 14:15:04 [TestNG-test-Test-1] INFO  tests.LoginTest - password has entered
+2026-05-05 14:15:04 [TestNG-test-Test-3] INFO  tests.CartPageTest - validating the product page title
+2026-05-05 14:15:05 [TestNG-test-Test-3] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-05 14:15:05 [TestNG-test-Test-1] INFO  tests.LoginTest - validateing the title
+2026-05-05 14:15:05 [TestNG-test-Test-1] INFO  tests.LoginTest - title validated
+2026-05-05 16:36:24 [TestNG-test-Test-1] INFO  tests.LoginTest - username has entered
+2026-05-05 16:36:24 [TestNG-test-Test-1] INFO  tests.LoginTest - password has entered
+2026-05-05 16:36:24 [TestNG-test-Test-1] INFO  tests.LoginTest - validateing the title
+2026-05-05 16:36:24 [TestNG-test-Test-1] INFO  tests.LoginTest - title validated
+2026-05-05 16:36:25 [TestNG-test-Test-3] INFO  tests.CartPageTest - validating the product page title
+2026-05-05 16:36:25 [TestNG-test-Test-3] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-05 16:37:26 [main] INFO  tests.LoginTest - username has entered
+2026-05-05 16:37:26 [main] INFO  tests.LoginTest - password has entered
+2026-05-05 16:37:26 [main] INFO  tests.LoginTest - validateing the title
+2026-05-05 16:37:26 [main] INFO  tests.LoginTest - title validated
+2026-05-05 16:37:34 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-05 16:37:34 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-05 18:36:41 [main] INFO  tests.LoginTest - username has entered
+2026-05-05 18:36:41 [main] INFO  tests.LoginTest - password has entered
+2026-05-05 18:36:42 [main] INFO  tests.LoginTest - validateing the title
+2026-05-05 18:36:42 [main] INFO  tests.LoginTest - title validated
+2026-05-05 18:36:54 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-05 18:36:54 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-05 18:59:49 [main] INFO  tests.LoginTest - username has entered
+2026-05-05 18:59:49 [main] INFO  tests.LoginTest - password has entered
+2026-05-05 18:59:50 [main] INFO  tests.LoginTest - validateing the title
+2026-05-05 18:59:50 [main] INFO  tests.LoginTest - title validated
+2026-05-05 19:00:01 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-05 19:00:01 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-06 13:37:31 [main] INFO  tests.LoginTest - username has entered
+2026-05-06 13:37:31 [main] INFO  tests.LoginTest - password has entered
+2026-05-06 13:37:32 [main] INFO  tests.LoginTest - validateing the title
+2026-05-06 13:37:32 [main] INFO  tests.LoginTest - title validated
+2026-05-06 13:37:39 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-06 13:37:40 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-06 13:39:36 [main] INFO  tests.LoginTest - username has entered
+2026-05-06 13:39:36 [main] INFO  tests.LoginTest - password has entered
+2026-05-06 13:39:36 [main] INFO  tests.LoginTest - validateing the title
+2026-05-06 13:39:36 [main] INFO  tests.LoginTest - title validated
+2026-05-06 13:39:45 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-06 13:39:46 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-06 13:43:12 [main] INFO  tests.LoginTest - username has entered
+2026-05-06 13:43:12 [main] INFO  tests.LoginTest - password has entered
+2026-05-06 13:43:12 [main] INFO  tests.LoginTest - validateing the title
+2026-05-06 13:43:12 [main] INFO  tests.LoginTest - title validated
+2026-05-06 13:43:20 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-06 13:43:20 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-06 16:03:28 [main] INFO  tests.LoginTest - username has entered
+2026-05-06 16:03:28 [main] INFO  tests.LoginTest - password has entered
+2026-05-06 16:03:28 [main] INFO  tests.LoginTest - validateing the title
+2026-05-06 16:03:28 [main] INFO  tests.LoginTest - title validated
+2026-05-06 16:03:35 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-06 16:03:35 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-07 11:18:28 [main] INFO  tests.LoginTest - username has entered
+2026-05-07 11:18:28 [main] INFO  tests.LoginTest - password has entered
+2026-05-07 11:18:29 [main] INFO  tests.LoginTest - validateing the title
+2026-05-07 11:18:29 [main] INFO  tests.LoginTest - title validated
+2026-05-07 11:18:36 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-07 11:18:37 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-07 11:20:30 [main] INFO  tests.LoginTest - username has entered
+2026-05-07 11:20:30 [main] INFO  tests.LoginTest - password has entered
+2026-05-07 11:20:30 [main] INFO  tests.LoginTest - validateing the title
+2026-05-07 11:20:30 [main] INFO  tests.LoginTest - title validated
+2026-05-07 11:20:37 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-07 11:20:37 [main] INFO  tests.CartPageTest - validateing the Cart page title
