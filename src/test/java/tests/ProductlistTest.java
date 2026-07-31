@@ -20,9 +20,6 @@ public class ProductlistTest extends BaseTest {
 		  Assert.assertEquals(pagetitle, "Products");
 		  System.out.println("The Page title is:"+pagetitle);
 		  pl.clickonaddtocartbutton();
-		  pl.clickoncarticon();
-		
-		
-	}
-	
+		  pl.clickoncarticon();		
+	} 
 }

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Test Suite">
+    <test name="Regression Tests">
+        <classes>
+            <class name="tests.LoginTest"/>
+            <class name="tests.ProductlistTest"/>
+            <class name="tests.CartPageTest"/>
+            <class name=""/>
+        </classes>
+    </test>
+</suite>

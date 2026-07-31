@@ -182,3 +182,51 @@
 2026-05-07 13:30:17 [main] INFO  tests.LoginTest - title validated
 2026-05-07 13:30:25 [main] INFO  tests.CartPageTest - validating the product page title
 2026-05-07 13:30:26 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-05-11 11:25:27 [main] INFO  tests.LoginTest - username has entered
+2026-05-11 11:25:28 [main] INFO  tests.LoginTest - password has entered
+2026-05-11 11:25:28 [main] INFO  tests.LoginTest - validateing the title
+2026-05-11 11:25:28 [main] INFO  tests.LoginTest - title validated
+2026-05-11 11:25:42 [main] INFO  tests.CartPageTest - validating the product page title
+2026-05-11 11:25:42 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-06-24 19:35:46 [main] INFO  tests.LoginTest - username has entered
+2026-06-24 19:35:46 [main] INFO  tests.LoginTest - password has entered
+2026-06-24 19:35:46 [main] INFO  tests.LoginTest - validateing the title
+2026-06-24 19:35:46 [main] INFO  tests.LoginTest - title validated
+2026-06-24 19:35:54 [main] INFO  tests.CartPageTest - validating the product page title
+2026-06-24 19:35:55 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-07-30 17:55:41 [main] INFO  tests.LoginTest - username has entered
+2026-07-30 17:55:42 [main] INFO  tests.LoginTest - password has entered
+2026-07-30 17:55:42 [main] INFO  tests.LoginTest - validateing the title
+2026-07-30 17:55:42 [main] INFO  tests.LoginTest - title validated
+2026-07-30 17:56:02 [main] INFO  tests.CartPageTest - validating the product page title
+2026-07-30 17:56:03 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-07-31 15:47:05 [main] INFO  tests.LoginTest - username has entered
+2026-07-31 15:47:05 [main] INFO  tests.LoginTest - password has entered
+2026-07-31 15:47:06 [main] INFO  tests.LoginTest - validateing the title
+2026-07-31 15:47:06 [main] INFO  tests.LoginTest - title validated
+2026-07-31 15:47:15 [main] INFO  tests.CartPageTest - validating the product page title
+2026-07-31 15:47:15 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-07-31 16:14:04 [main] INFO  tests.LoginTest - username has entered
+2026-07-31 16:14:05 [main] INFO  tests.LoginTest - password has entered
+2026-07-31 16:14:05 [main] INFO  tests.LoginTest - validateing the title
+2026-07-31 16:14:05 [main] INFO  tests.LoginTest - title validated
+2026-07-31 16:14:13 [main] INFO  tests.CartPageTest - validating the product page title
+2026-07-31 16:14:14 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-07-31 19:00:53 [main] INFO  tests.LoginTest - username has entered
+2026-07-31 19:00:53 [main] INFO  tests.LoginTest - password has entered
+2026-07-31 19:00:53 [main] INFO  tests.LoginTest - validateing the title
+2026-07-31 19:00:53 [main] INFO  tests.LoginTest - title validated
+2026-07-31 19:01:00 [main] INFO  tests.CartPageTest - validating the product page title
+2026-07-31 19:01:00 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-07-31 19:03:26 [main] INFO  tests.LoginTest - username has entered
+2026-07-31 19:03:26 [main] INFO  tests.LoginTest - password has entered
+2026-07-31 19:03:27 [main] INFO  tests.LoginTest - validateing the title
+2026-07-31 19:03:27 [main] INFO  tests.LoginTest - title validated
+2026-07-31 19:03:35 [main] INFO  tests.CartPageTest - validating the product page title
+2026-07-31 19:03:35 [main] INFO  tests.CartPageTest - validateing the Cart page title
+2026-07-31 19:06:46 [main] INFO  tests.LoginTest - username has entered
+2026-07-31 19:06:47 [main] INFO  tests.LoginTest - password has entered
+2026-07-31 19:06:47 [main] INFO  tests.LoginTest - validateing the title
+2026-07-31 19:06:47 [main] INFO  tests.LoginTest - title validated
+2026-07-31 19:06:55 [main] INFO  tests.CartPageTest - validating the product page title
+2026-07-31 19:06:55 [main] INFO  tests.CartPageTest - validateing the Cart page title
